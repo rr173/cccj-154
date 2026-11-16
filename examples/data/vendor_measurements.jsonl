@@ -1,0 +1,5 @@
+{"id":"v1","field":"V_abs","value":"5","unit":"[acme:X]","quantity_kind":"absolute"}
+{"id":"v2","field":"V_delta","value":"5","unit":"[acme:X]","quantity_kind":"delta"}
+{"id":"v3","field":"L_abs","value":"1","unit":"[acme:Y]","quantity_kind":"absolute"}
+{"id":"v4","field":"T_abs","value":"0","unit":"Cel","quantity_kind":"absolute"}
+{"id":"v5","field":"V_rate","value":"5","unit":"[acme:X]/s","quantity_kind":"delta"}

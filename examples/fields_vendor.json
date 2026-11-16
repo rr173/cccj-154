@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "V_abs":   {"quantity_kind": "absolute", "target_unit": "K",   "dimension": "temperature"},
+    "V_delta": {"quantity_kind": "delta",    "target_unit": "K",   "dimension": "temperature"},
+    "V_rate":  {"quantity_kind": "delta",    "target_unit": "K/s", "dimension": "temperature"},
+    "T_abs":   {"quantity_kind": "absolute", "target_unit": "K",   "dimension": "temperature"},
+    "L_abs":   {"quantity_kind": "absolute", "target_unit": "m",   "dimension": "length"}
+  }
+}

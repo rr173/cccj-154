@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "T_abs":    {"quantity_kind": "absolute", "target_unit": "K",     "dimension": "temperature"},
+    "T_delta":  {"quantity_kind": "delta",    "target_unit": "K",     "dimension": "temperature"},
+    "T_rate":   {"quantity_kind": "delta",    "target_unit": "K/s",   "dimension": "temperature"},
+    "C_ratio":  {"quantity_kind": "ratio",    "target_unit": "g/m3",  "dimension": "mass"},
+    "L_ratio":  {"quantity_kind": "ratio",    "target_unit": "m",     "dimension": "length"},
+    "L_abs":    {"quantity_kind": "absolute", "target_unit": "m",     "dimension": "length"},
+    "T_cels":   {"quantity_kind": "absolute", "target_unit": "Cel",   "dimension": "temperature"}
+  }
+}

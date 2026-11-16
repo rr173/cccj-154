@@ -1,0 +1,5 @@
+{"type": "node", "source": "acme", "namespace": "acme", "code": "Y", "dimension": "length"}
+{"type": "node", "source": "acme", "namespace": "acme", "code": "X", "dimension": "temperature"}
+{"type": "relation", "source": "acme", "relation_id": "Y-m", "u": {"namespace": "acme", "code": "Y"}, "v": {"namespace": "builtin", "code": "m"}, "a": {"num": 2, "den": 1}, "b": {"num": 0, "den": 1}}
+{"type": "relation", "source": "acme", "relation_id": "X-K", "u": {"namespace": "acme", "code": "X"}, "v": {"namespace": "builtin", "code": "K"}, "a": {"num": 2, "den": 1}, "b": {"num": 5683, "den": 20}}
+{"type": "relation", "source": "acme", "relation_id": "X-Cel", "u": {"namespace": "acme", "code": "X"}, "v": {"namespace": "builtin", "code": "Cel"}, "a": {"num": 2, "den": 1}, "b": {"num": 10, "den": 1}}
